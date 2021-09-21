@@ -1,4 +1,6 @@
-Pythfirnite Hiat 23588999
+Name: Pythfirnite Hiat
 
-[This is the screenshot to my Git History :)](./image.png)
+ID: 23588999
+
+![This is a picture of my Git History :)](./image.png)
 
